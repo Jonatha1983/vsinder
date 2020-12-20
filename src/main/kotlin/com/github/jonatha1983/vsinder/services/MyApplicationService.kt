@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jonatha1983.vsinder.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jonatha1983.vsinder.MyBundle
 
 class MyApplicationService {
 
